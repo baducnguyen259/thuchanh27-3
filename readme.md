@@ -1,14 +1,16 @@
-# Đặc tả yêu cầu phần mềm (SRS)
+# ĐẶC TẢ YÊU CẦU PHẦN MỀM (SRS)
 
 ## Chức năng: Quản lý Sản phẩm (Product Information Management - PIM)
 
-**Dự án:** Kochi Lens - Website bán thiết bị ngành ảnh  
-**Mã chức năng:** PIM-01  
-**Trạng thái:** Draft / Review  
-**Người soạn thảo:** Nguyễn Bá Đức
-**MSV:** 23810310420
-**Lớp** D18CNPM3
-**Vai trò:** Developer / Analyst
+| Thuộc tính | Thông tin |
+|----------|----------|
+| **Dự án** | Kochi Lens - Website bán thiết bị ngành ảnh |
+| **Mã chức năng** | PIM-01 |
+| **Trạng thái** | Draft / Review |
+| **Người soạn thảo** | Nguyễn Bá Đức |
+| **MSV** | 23810310420 |
+| **Lớp** | D18CNPM3 |
+| **Vai trò** | Developer / Analyst |
 
 ---
 
